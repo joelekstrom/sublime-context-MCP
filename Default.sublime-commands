@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "EditorContextMCP: Show Current State",
+        "command": "editor_context_show_state"
+    }
+]

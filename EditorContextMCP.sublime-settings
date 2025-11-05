@@ -1,0 +1,4 @@
+{
+    // Port for the MCP server to listen on
+    "mcp_server_port": 8765
+}
