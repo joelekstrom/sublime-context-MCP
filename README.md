@@ -1,6 +1,10 @@
 # Sublime Editor Context MCP
 
-A Sublime Text plugin that exposes your editor context (open files, selections, cursor positions) to agents via the Model Context Protocol (MCP). The instructions below assume Claude Code, but should be easy to adjust.
+A Sublime Text plugin that exposes your editor context (open files, selections, cursor positions) to agents via the Model Context Protocol (MCP). 
+
+This allows the agent to figure out what you mean when asking things like "what do you think about this?" with some code selected in Sublime Text, even if the agent is running in a terminal.
+
+The instructions below assume Claude Code, but should be easy to adjust.
 
 ## Installation
 
